@@ -18,7 +18,7 @@ with open('README.md') as fobj:
 
 setup(
     name='scipype',
-    version='0.0.1a',
+    version='0.0.1a1',
     description='Pure python workflow library',
     long_description=long_description,
     author='Samuel Lampa',
